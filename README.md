@@ -3,7 +3,7 @@ This repository contains automated tests created as part of a test assignment.
 
 ## Description
 This project uses Playwright as testing framework with JavaScript and Chromium, WebKit and Firefox as browsers.
-It covers a few test ascenarios for the page https://www.saucedemo.com/ 
+It covers a few test scenarios for the page https://www.saucedemo.com/ 
 
 There are two tests files, separating the main flows for the tests. 
 One to test login with two types of users and one to test product purchase after user is signed in.    
